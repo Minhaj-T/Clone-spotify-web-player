@@ -1,3 +1,3 @@
 # Spotify-Project
 
-https://minhaj48.github.io/Spotify-Project/
+https://minhaj-t.github.io/Spotify-Project/
